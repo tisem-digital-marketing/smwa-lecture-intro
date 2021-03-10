@@ -1,0 +1,113 @@
+---
+title: "Social Media and Web Analytics"
+subtitle: "Course Introduction"
+author: "Lachlan Deer"
+institute: "Tilburg University"
+date: "Spring 2021 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [default, metropolis, metropolis-fonts]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: clear 
+
+background-image: url(https://i1.wp.com/cms.babbel.news/wp-content/uploads/2017/12/Niederlaendisch-hallo-FB1200.png?resize=830%2C467)
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+---
+class: font200
+
+# Today's Plan
+
+* Logistics (i.e. How things will work in our 'online world')
+* Meet the Instructors
+* My take on Social Media & Web Analytics
+* Where we are going
+  * General topics we'll cover
+* How you will be asessed
+
+---
+class: inverse, center, middle
+
+# Logistics
+
+---
+class: inverse, center, middle
+
+# Meet the Instructors
+
+---
+class: inverse, center, middle
+
+# Social Media and Web Analytics: < > A possibly biased perspective
+
+
+---
+class: inverse, center, middle
+
+# Where We Are Going
+
+---
+class: inverse, center, middle
+
+# Assessment
+
+---
+class: font160
+
+# Group Assignments (40%)
+
+* **2** group assignments - **each 20% of final grade**.
+* Group Allocation: random + changes between assignments
+
+* **Group Assignment 1**: Evaluating & Managing Online Reputation
+* **Group Assignment 2**: TBA
+
+* Assignment Structure:
+  * Multiple Parts
+  * Each part has multiple exercises
+  * Mix of analytics and interpretation
+  * Goal: walk through solving a problem
+* **Submission via GitHub Classroom**
+  - We'll introduce you to the details next week
+
+---
+class: font150
+
+# Final Project (55%)
+
+* Submitted **individually** (on GitHub Classroom)
+
+* **Goal**: Conduct independent analysis of 
+  * Put this skills you learn to use on a new, self-defined problem
+  * Topics: you can choose - must be (loosely) related to Social Media / Web Analytics
+
+* 3 Milestones to complete
+  * **Milestone 1**: Proposal and Data Collection
+  * **Milestone 2**: Literature Review + Motivating Figure / Table
+  * **Milestone 3**: Final Report + Video Presentation
+
+* Project Grade:
+
+$$
+Grade = 0.20 \times \text{Milestone 1} + 0.20 \times \text{Milestone 2} + 0.6 \times \text{Milestone 3}
+$$
+
+---
+class: font180
+
+# Weekly Quizzes (5%)
+
+* Review Quizzes (on *Canvas*)
+  * 3 attempts
+  * 5 - 10 questions, mix of marketing questions + analytics questions
+  * Goal: check that you've worked through the material each week
+* We take your best **5** _completed_ quiz grades.
+
