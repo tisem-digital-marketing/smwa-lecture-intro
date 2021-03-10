@@ -1,0 +1,450 @@
+---
+title: "Social Media and Web Analytics"
+subtitle: "Course Introduction"
+author: "Lachlan Deer"
+institute: "Tilburg University"
+date: "Spring 2021 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [default, metropolis, metropolis-fonts]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: clear 
+
+background-image: url(https://i1.wp.com/cms.babbel.news/wp-content/uploads/2017/12/Niederlaendisch-hallo-FB1200.png?resize=830%2C467)
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+---
+class: font200
+
+# Today's Plan
+
+* Logistics (i.e. How things will work in our 'online world')
+* Meet the Instructors
+* My take on Social Media & Web Analytics
+* Where we are going
+  * General topics we'll cover
+* How you will be asessed
+
+---
+class: inverse, center, middle
+
+# Logistics
+
+---
+# Structure in the Online Space
+
+* Online, mostly asynchronous
+
+* Lectures
+  * Series of (hopefully) short videos
+  * Approx. 70/30 split between 'substantive' and 'methods'
+
+* Tutorials
+  * Analytics focussed
+  * Self-guided
+  * Work through a guided Rmarkdown document
+
+* Discussion Sections - *LIVE!*
+  * Optional, Twice per week
+  * 90 min open *discussion* led by an instructor but emphasis on student discussion
+  * Topics: 'vote in advance'
+  * Turn on your camera!
+
+---
+class: font140 
+
+# Where to Find Stuff
+
+* [Course website](TODO: ADD LINK) is your # 1 resource
+  * Canvas only used for quizzes, grades
+
+* Discussion / Chat: [Slack](TODO: ADD LINK)
+  * Group Chat across different 'channels'
+
+* Email (if you must): tisem.social.media@gmail.com
+  * *Not* our personal email addresses
+
+* Office Hours
+  * Sign up using links in [syllabus](TODO: ADD LINK)
+
+---
+class: font130
+
+# Textbooks, Readings
+
+* **No Textbook** for the class
+  * Become outdated fast as social media changes rapidly
+  * Some emphasize too much of the hype, remainder are too dry
+  * I do like Aral's *'Hype Machine'* though ... but its audience is not quite this class
+
+* **My job**: filter through the sea of information and teach what is useful and relevant
+  * No hype, hopefully not too dry
+
+* **Your job**: read over assigned papers, learn the skills
+  * I've curated course content to (hopefully) deliver the most insight with the least technical details
+  * Readings shouldn't be 'hype', occasionally dry
+  * Coding skills acquired should be easy to transfer to a different problem
+
+* Lecture slides will be on course website as pdfs
+
+---
+class: font150
+
+# Coding, Maths and Stats
+
+This is an **analytics** class (it's even in the course name!)
+
+* We will develop an analytics toolkit
+  * Mainly 'code based', occasionally we'll need some maths and stats
+    * ... I've tried to minimize unneccessary math / stats
+
+* Coding backgrounds among students is heterogeneous
+  * Principle: Leave no-one behind
+    * Instructors are here to help catch you up and provide further guidance as needed
+    * $\implies$ work with us, even when it is hard
+    * Be willing to learn from each other, form virtual study groups, use the Slack chat etc
+
+... More on coding stuff *later*
+
+---
+class: font140
+
+# Things to Keep in Mind
+
+* This course is **brand new**
+  * We look at **current** state of the art knowledge
+  * There will be bugs ...
+  * ... We'll work through them together
+
+* Mix of students at various levels, from various backgrounds
+  * Learn from other's unique perspectives
+
+* I (awkwardly) straddle the line between marketing & economics
+  * I care about 'mechanisms' and explaining why things happen
+  * I care about more than only the 4P's
+  * I'm not a 'data scientist' or computer scientist
+  * $\implies$ pragmatism towards analysis that asks interesting questions
+
+---
+class: inverse, center, middle
+
+# Meet the Instructors
+
+---
+class: font160
+# Lachlan: Background 
+
+* Born and raised in Australia 
+
+* **New to the Netherlands**: first year here 
+  * Currently live in Rotterdam
+  * Journey to the the Netherlands: London $\rightarrow$ Zurich $\rightarrow$ the Bay Area $\rightarrow$ Zurich $\rightarrow$ Chicago
+  * Still learning the ins and outs of the Netherlands *and* the university
+    * ... and have yet to explore anywhere more than 2km from my apartment!
+
+* Now: Assistant Prof @ Tilburg University  
+
+---
+class: font140
+# Lachlan: Areas of Expertise
+
+* **Substantive**
+  - Quantifying the impact of Twitter on demand for new products (Movies)
+  - Quantifying relationship between advertising and social media discussions
+  - Understanding the role of Social Media Networks in Political Revolutions (Arab Spring)
+  
+* **Methods**:
+  - Working with 'big' data
+  - Text-as-data
+  - Network analytics
+  - Econometrics / statistics
+
+**Bottom Line:** *analyzing social media data to answer economic and marketing questions*
+
+---
+class: font180
+# Lachlan: Areas of Expertise
+
+Why is all this relevant?
+
+* I've used social media data throughout my career
+  * From constructing simple tables and figures to convince firms to update their decisions and strategies
+  * ... to quite elaborate statistical / econometric models
+      * that appeal to other academics
+  
+**I believe in the value of what I am teaching**
+
+---
+# Henrik: TBD
+
+---
+class: inverse, center, middle
+
+# Social Media Analytics: <br> A possibly biased perspective
+
+---
+class: font180
+
+# What is Social Media Analytics?
+
+Social Media Analytics is the application of statistical methods to understand behaviour on social media websites to make business decisions
+
+* It's generally *empirical*, sometimes theoretical (i.e. mathematical)
+
+*What kinds of analysis are of interest to us as marketers?*
+
+* Descriptive Analysis
+* Causal Analysis
+* Predictive Analysis
+
+---
+class: font160
+
+# Descriptive Analysis
+
+**Descriptive Analysis**: summarize characteristics of a data set
+
+* What does the data look like?
+  * Means, standard deviations distribution of data
+  * Results are (stylized) *facts*
+
+Examples:
+
+* How are users who discuss the US election connected on Twitter?
+* What topics are discussed on Yelp Reviews? 
+* Are discussions on Reddit about Albert Heijn different from those on Twitter?
+
+---
+class: font160
+
+# Causal Analysis
+
+**Causal Analysis**: Does A lead to B?
+  * Might also care about the mechanism of how it happens
+
+Examples:
+
+* Do Facebook ads increase product purchases?
+* Does product adoption by influencers increase demand?
+* Do tweets by TV studios increase the number of viewers of their show?
+
+---
+class: font160
+
+# Predictive Analysis
+
+**Predictive Analysis**: How can I best predict an outcome?
+  * When A occurs, so does B
+
+Examples:
+
+* Is this review posted by a real person or by a bot?
+* How many retweets does Nike expect its next tweet to get?
+* Who is a new Twitter user likely to follow?
+
+---
+class: font160
+
+# How to do Social Media Analytics
+
+Social Media Analytics needs to combine tools from three areas:
+
+1. Network Analytics
+2. Text Analytics - 'Text-as-data'
+3. Statistical / Econometric Methods
+
+The exact mix of these depends on:
+
+* The question you want to answer 
+  * Example: Can one deliver valuable insight by ignoring the network structure?
+* Personal taste
+  * ... I've increasingly started to value the network side of things lately
+  * ... This view is not necessarily representative of all marketers 
+
+---
+class: font160
+
+# Good and Bad News ...
+
+**Good news**: high quality social media analytics is incredibly useful
+
+Why?
+
+* Social media impacts a wide variety of industries
+  * Media & entertainment, politics, health care, FMCG, fashion & beauty, etc
+* It provides real answers to real problems in marketing and business strategy
+  * And *people care about the answers*
+
+* Being able to do (good) social media analytics ensures many (enjoyable) job prospects
+
+---
+class: font180
+
+# Good and Bad News ...
+
+**Bad News**: Its *hard*
+
+* One needs to learn about networks, text analysis *and* statistics
+* ... **and** be able to work on causal and predictive questions
+
+(That seems like *a lot*...)
+
+* And... learning the tools can be boring
+
+**_Opinion_**: I think the upside far, far outweighs the bad.
+
+---
+class: inverse, center, middle
+
+# Where We Are Going
+
+---
+class: font200
+
+# Course Objectives:
+
+1. Learning/delivering marketing insights from state of the art research in social media marketing and the effects of user generated content,
+2. Improving analytics & coding skills.
+
+---
+class: font160
+
+# What We Will Cover
+
+Four Blocks:
+
+1. **Social Media Networks** (Week 1)
+  * Structure of Social Media Networks
+2. **Branding and Community** (Weeks 2 & 3)
+  * Online Reputation 
+  * Structure of Online Communities
+3. **Word of Mouth and Influence** (Weeks 4 & 5)
+  * Word of Mouth
+  * Influencers
+4. **Advertising and Social Media** (Weeks 6 & 7)
+  * Viral Marketing
+  * Social Advertising
+
+---
+# Building an Analytics Toolkit
+
+1. **Network Analytics**
+  * Summarize and plot network data
+  * Identify communities within a network
+  * Diffusion patterns in a network
+
+2. **Text-as-Data**
+  * Summarizing Text
+  * Classifying Text into pre-defined categories
+  * Measuring Sentiment
+  * Identify topics being discussed
+
+3. **Statistics/Econometrics**
+  * Regression Modelling: OLS and extensions
+  * Causal Inference
+  * Prediction Models & 'machine learning'
+
+---
+# Building an Analytics Toolkit: Software
+
+1. `R` - purpose built statistical software
+  * Wide variety of statistical and graphical techniques
+  * Can do most analysis marketers need to do
+  * It's free and open source, and has a *friendly* user community
+
+2. Git - Version Control
+  * Track the changes to our code and writing systematically
+  * Improves 'replicability'
+    * *Highly valued* by employers in marketing analytics companies and in quantitative consulting
+
+**This week**: 
+
+* Install required software on your computer 
+* Coding Bootcamp - build up and/or sharpen your skills in these areas
+
+---
+class: inverse, center, middle
+
+# Assessment
+
+---
+class: font160
+
+# Group Assignments (40%)
+
+* **2** group assignments - **each 20% of final grade**.
+* Group Allocation: random + changes between assignments
+
+* **Group Assignment 1**: Evaluating & Managing Online Reputation
+* **Group Assignment 2**: TBA
+
+* Assignment Structure:
+  * Multiple Parts
+  * Each part has multiple exercises
+  * Mix of analytics and interpretation
+  * Goal: walk through solving a problem
+* **Submission via GitHub Classroom**
+  - We'll introduce you to the details next week
+
+---
+class: font150
+
+# Final Project (55%)
+
+* Submitted **individually** (on GitHub Classroom)
+
+* **Goal**: Conduct independent analysis of some social media or web data
+  * Put this skills you learn to use on a new, self-defined problem
+  * Topics: you can choose - must be (loosely) related to Social Media / Web Analytics
+
+* 3 Milestones to complete
+  * **Milestone 1**: Proposal and Data Collection
+  * **Milestone 2**: Literature Review + Motivating Figure / Table
+  * **Milestone 3**: Final Report + Video Presentation
+
+* Project Grade:
+
+$$
+Grade = 0.20 \times \text{Milestone 1} + 0.20 \times \text{Milestone 2} + 0.6 \times \text{Milestone 3}
+$$
+
+---
+class: font180
+
+# Weekly Quizzes (5%)
+
+* Review Quizzes (on *Canvas*)
+  * 3 attempts
+  * 5 - 10 questions, mix of marketing questions + analytics questions
+  * Goal: check that you've worked through the material each week
+* We take your best **5** _completed_ quiz grades.
+
+---
+# License & Citation
+
+Suggested Citation:
+
+```{r, engine='out', eval = FALSE}
+@misc{ddw2021,
+      title={"Social Media and Web Analytics: Course Introduction"},
+      author={Lachlan Deer and Henrik de With},
+      year={2021},
+      url = "https://tisem-social-media.github.io/2021-spring"
+}
+```
+
+<p style="text-align:center;"><img src="https://www.tilburguniversity.edu/sites/default/files/styles/large_width/public/image/Logo%20OSCT.png?itok=PqU9mw_l" alt="Logo" width = "200"></p>
+
+This course adheres to the principles of the Open Science Community of Tilburg University. 
+This initiative advocates for transparency and accessibility in research and teaching to all levels of society and thus creating more accountability and impact.
+
+<p style="text-align:center;"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Logo" width = "100"></p>
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
