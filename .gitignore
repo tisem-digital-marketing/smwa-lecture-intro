@@ -3,3 +3,4 @@
 *.pdf
 libs
 *.Rproj
+.Rhistory
