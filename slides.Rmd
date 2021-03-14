@@ -3,7 +3,7 @@ title: "Social Media and Web Analytics"
 subtitle: "Course Introduction"
 author: "Lachlan Deer"
 institute: "Tilburg University"
-date: "Spring 2021 (updated: `r Sys.Date()`)"
+date: "Updated: `r Sys.Date()`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -24,14 +24,13 @@ options(htmltools.dir.version = FALSE)
 ---
 class: font200
 
-# Today's Plan
+# Learning Goals for this Week
 
-* Logistics (i.e. How things will work in our 'online world')
-* Meet the Instructors
-* My take on Social Media & Web Analytics
-* Where we are going
-  * General topics we'll cover
-* How you will be asessed
+* Understand the logistical structure of the course
+* Meet your Instructors
+* Develop an understanding what's needed in a Social Media Analytics toolkit
+* Understand the topic coverage in this course
+* Explain how you will be assessed
 
 ---
 class: inverse, center, middle
@@ -41,7 +40,7 @@ class: inverse, center, middle
 ---
 # Structure in the Online Space
 
-* Online, mostly asynchronous
+* **Online**, mostly asynchronous
 
 * Lectures
   * Series of (hopefully) short videos
@@ -53,7 +52,7 @@ class: inverse, center, middle
   * Work through a guided Rmarkdown document
 
 * Discussion Sections - *LIVE!*
-  * Optional, Twice per week
+  * Optional, Two sessions per week - different topics in each section
   * 90 min open *discussion* led by an instructor but emphasis on student discussion
   * Topics: 'vote in advance'
   * Turn on your camera!
@@ -183,7 +182,7 @@ Why is all this relevant?
 **I believe in the value of what I am teaching**
 
 ---
-# Henrik: TBD
+# Hendrik: TBD
 
 ---
 class: inverse, center, middle
@@ -199,7 +198,7 @@ Social Media Analytics is the application of statistical methods to understand b
 
 * It's generally *empirical*, sometimes theoretical (i.e. mathematical)
 
-*What kinds of analysis are of interest to us as marketers?*
+**What kinds of empirical analysis are of interest to us as marketers?**
 
 * Descriptive Analysis
 * Causal Analysis
