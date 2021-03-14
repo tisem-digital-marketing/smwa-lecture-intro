@@ -100,24 +100,6 @@ snakemake --cores 1 renv_restore
 
 This will install all the packages we need. It may take a while.
 
-## Building the Slides
-
-Navigate to this project's directory, and then run the following command in the terminal:
-
-If you want html and pdf slides:
-
-```bash
-$ snakemake all --cores 1
-```
-
-If you only want the html presentation:
-
-```bash
-$ snakemake build_html --cores 1
-```
-
-To get the pdf (you need the html), so use `snakemake all --cores 1`
-
 ## Suggested Citation
 
 Deer, Lachlan and de With, Hendrik. 2021. Social Media and Web Analytics: Course Introduction.
