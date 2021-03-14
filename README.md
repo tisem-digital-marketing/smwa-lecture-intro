@@ -1,4 +1,4 @@
-# Building xaringan slides with Snakemake
+# Social Media and Web Analytics: Course Intro
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![lifecycle](https://img.shields.io/badge/version-2021-red.svg)]()
