@@ -182,7 +182,31 @@ Why is all this relevant?
 **I believe in the value of what I am teaching**
 
 ---
-# Hendrik: TBD
+class: font160
+# Hendrik: Background
+
+* Dutch, Utrecht Based 
+  * But studying & working at Tilburg 
+
+* Lecturer in the Marketing Department 
+  * Might know me from: 
+    - Business Research classes for BSc, BE (MBEO, IOM) and Pre-Master (BRT)
+    - Strategic Marketing Management 
+    - Bachelor's / Master's Thesis
+
+---
+class: font160
+# Hendrik: Interests
+
+* Academics:
+  - Education, marketing research
+  - Data analytics
+
+* Real World:
+  - Cycling (mountain biking, road cycling, long distance trips)
+  - Music $\rightarrow$ streaming Spotify all day
+
+
 
 ---
 class: inverse, center, middle
