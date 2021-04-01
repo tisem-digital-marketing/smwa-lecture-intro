@@ -10,3 +10,4 @@ libs
 slides_files
 *.html
 *.pdf
+.vscode
