@@ -44,12 +44,12 @@ class: inverse, center, middle
 
 * Lectures
   * Series of (hopefully) short videos
-  * Approx. 70/30 split between 'substantive' and 'methods'
+  * Approx. 50/50 split between 'substantive' and 'methods'
 
 * Tutorials
-  * Analytics focussed
+  * Analytics focused
   * Self-guided
-  * Work through a guided Rmarkdown document
+  * Work through a guided RMarkdown document
 
 * Discussion Sections - *LIVE!*
   * Optional, Two sessions per week - different topics in each section
@@ -62,17 +62,18 @@ class: font140
 
 # Where to Find Stuff
 
-* [Course website](TODO: ADD LINK) is your # 1 resource
+* [Course website](https://tisem-digital-marketing.github.io/2021-smwa/) is your # 1 resource
   * Canvas only used for quizzes, grades
 
-* Discussion / Chat: [Slack](TODO: ADD LINK)
+* Discussion / Chat: [Slack](https://tisem-smwa.slack.com/)
   * Group Chat across different 'channels'
 
 * Email (if you must): tisem.social.media@gmail.com
   * *Not* our personal email addresses
 
 * Office Hours
-  * Sign up using links in [syllabus](TODO: ADD LINK)
+  * Sign up using [links](Thttps://tisem-digital-marketing.github.io/2021-smwa/about/)
+  * Check the Syllabus for instructions
 
 ---
 class: font130
@@ -81,7 +82,7 @@ class: font130
 
 * **No Textbook** for the class
   * Become outdated fast as social media changes rapidly
-  * Some emphasize too much of the hype, remainder are too dry
+  * Some emphasise too much of the hype, remainder are too dry
   * I do like Aral's *'Hype Machine'* though ... but its audience is not quite this class
 
 * **My job**: filter through the sea of information and teach what is useful and relevant
@@ -92,7 +93,7 @@ class: font130
   * Readings shouldn't be 'hype', occasionally dry
   * Coding skills acquired should be easy to transfer to a different problem
 
-* Lecture slides will be on course website as pdfs
+* Lecture slides will be on course website as PDFs
 
 ---
 class: font150
@@ -103,7 +104,7 @@ This is an **analytics** class (it's even in the course name!)
 
 * We will develop an analytics toolkit
   * Mainly 'code based', occasionally we'll need some maths and stats
-    * ... I've tried to minimize unneccessary math / stats
+    * ... I've tried to minimise unnecessary maths / stats
 
 * Coding backgrounds among students is heterogeneous
   * Principle: Leave no-one behind
@@ -166,7 +167,7 @@ class: font140
   - Network analytics
   - Econometrics / statistics
 
-**Bottom Line:** *analyzing social media data to answer economic and marketing questions*
+**Bottom Line:** *analysing social media data to answer economic and marketing questions*
 
 ---
 class: font180
@@ -233,11 +234,11 @@ class: font160
 
 # Descriptive Analysis
 
-**Descriptive Analysis**: summarize characteristics of a data set
+**Descriptive Analysis**: summarise characteristics of a data set
 
 * What does the data look like?
   * Means, standard deviations distribution of data
-  * Results are (stylized) *facts*
+  * Results are (stylised) *facts*
 
 Examples:
 
@@ -360,13 +361,13 @@ Four Blocks:
 # Building an Analytics Toolkit
 
 1. **Network Analytics**
-  * Summarize and plot network data
+  * Summarise and plot network data
   * Identify communities within a network
   * Diffusion patterns in a network
 
 2. **Text-as-Data**
-  * Summarizing Text
-  * Classifying Text into pre-defined categories
+  * Summarising Text
+  * Classifying Text into predefined categories
   * Measuring Sentiment
   * Identify topics being discussed
 
