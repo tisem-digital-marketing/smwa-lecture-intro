@@ -342,17 +342,19 @@ class: font160
 
 Four Blocks:
 
-1. **Social Media Networks** (Week 1)
+1. **Empirical Analysis of Patterns in Social Networks** (Week 1 & 6)
   * Structure of Social Media Networks
-2. **Branding and Community** (Weeks 2 & 3)
+2. **Analysing Brand Reputation in Online Communities** (Weeks 3)
   * Online Reputation 
   * Structure of Online Communities
-3. **Word of Mouth and Influence** (Weeks 4 & 5)
+3. **Quantifying the Importance of Influencers and Word of Mouth** (Weeks 4 & 5)
   * Word of Mouth
   * Influencers
-4. **Advertising and Social Media** (Weeks 6 & 7)
+4. **Measuring the Effectiveness of Social Media Advertising** (Weeks 6 & 7)
   * Viral Marketing
   * Social Advertising
+
+Week 2 ... a deep dive into regression & causation
 
 ---
 # Building an Analytics Toolkit
@@ -360,18 +362,15 @@ Four Blocks:
 1. **Network Analytics**
   * Summarise and plot network data
   * Identify communities within a network
-  * Diffusion patterns in a network
 
 2. **Text-as-Data**
   * Summarising Text
-  * Classifying Text into predefined categories
   * Measuring Sentiment
   * Identify topics being discussed
 
 3. **Statistics/Econometrics**
   * Regression Modelling: OLS and extensions
   * Causal Inference
-  * Prediction Models & 'machine learning'
 
 ---
 # Building an Analytics Toolkit: Software
@@ -386,10 +385,10 @@ Four Blocks:
   * Improves 'replicability'
     * *Highly valued* by employers in marketing analytics companies and in quantitative consulting
 
-**This week**: 
+**Your task before the Week 2**: 
 
 * Install required software on your computer 
-* Coding Bootcamp - build up and/or sharpen your skills in these areas
+* Coding Bootcamp - refresh your skills where required
 
 ---
 class: inverse, center, middle
