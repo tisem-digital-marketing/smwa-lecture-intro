@@ -38,41 +38,36 @@ class: inverse, center, middle
 # Logistics
 
 ---
-# Structure in the Online Space
+# Class Structure
 
-* **Online**, mostly asynchronous
+* Mainly in person
 
-* Lectures
-  * Series of (hopefully) short videos
-  * Approx. 50/50 split between 'substantive' and 'methods'
+* **Lectures**
+  * Video Lectures -- Discussion of papers
+  * Computer Lectures -- Methods intros, biweekly
 
-* Tutorials
-  * Analytics focused
-  * Self-guided
-  * Work through a guided RMarkdown document
-
-* Discussion Sections - *LIVE!*
-  * Optional, Two sessions per week - different topics in each section
-  * 90 min open *discussion* led by an instructor but emphasis on student discussion
-  * Topics: 'vote in advance'
-  * Turn on your camera!
+* **Lab Sections**
+  * Week 1: Intro to Networks & Getting Data via Twitter API
+  * From Week 2:
+    * Group Presentations (2 $\times$ 30 mins)
+    * Review of Previous Lab Assignment (30 mins) 
 
 ---
 class: font140 
 
 # Where to Find Stuff
 
-* [Course website](https://tisem-digital-marketing.github.io/2021-smwa/) is your # 1 resource
-  * Canvas only used for quizzes, grades
+* [Course website](https://tisem-digital-marketing.github.io/2022-smwa/) is your # 1 resource
+  * Canvas only used for group allocation, grades
 
-* Discussion / Chat: [Slack](https://tisem-smwa.slack.com/)
+* Discussion / Chat: [Slack](https://tisem-smwa-2022.slack.com/)
   * Group Chat across different 'channels'
 
 * Email (if you must): tisem.social.media@gmail.com
   * *Not* our personal email addresses
 
 * Office Hours
-  * Sign up using [links](Thttps://tisem-digital-marketing.github.io/2021-smwa/about/)
+  * Sign up using [links](Thttps://tisem-digital-marketing.github.io/2021-smwa/home/instructors/)
   * Check the Syllabus for instructions
 
 ---
@@ -110,7 +105,7 @@ This is an **analytics** class (it's even in the course name!)
   * Principle: Leave no-one behind
     * Instructors are here to help catch you up and provide further guidance as needed
     * $\implies$ work with us, even when it is hard
-    * Be willing to learn from each other, form virtual study groups, use the Slack chat etc
+    * Be willing to learn from each other, form study groups, use the Slack chat etc
 
 ... More on coding stuff *later*
 
@@ -119,9 +114,9 @@ class: font140
 
 # Things to Keep in Mind
 
-* This course is **brand new**
+* This course is **quite new**
   * We look at **current** state of the art knowledge
-  * There will be bugs ...
+  * There will likely be bugs ...
   * ... We'll work through them together
 
 * Mix of students at various levels, from various backgrounds
@@ -144,11 +139,11 @@ class: font160
 
 * Born and raised in Australia 
 
-* **New to the Netherlands**: first year here 
+* **New to the Netherlands**: second year here 
   * Currently live in Rotterdam
   * Journey to the the Netherlands: London $\rightarrow$ Zurich $\rightarrow$ the Bay Area $\rightarrow$ Zurich $\rightarrow$ Chicago
   * Still learning the ins and outs of the Netherlands *and* the university
-    * ... and have yet to explore anywhere more than 2km from my apartment!
+    * ... am have yet to explore outside of Rotterdam!
 
 * Now: Assistant Prof @ Tilburg University  
 
@@ -184,30 +179,28 @@ Why is all this relevant?
 
 ---
 class: font160
-# Hendrik: Background
+# Gijs: Background
 
-* Dutch, Utrecht Based 
+* Dutch, XXX Based 
   * But studying & working at Tilburg 
 
 * Lecturer in the Marketing Department 
   * Might know me from: 
-    - Business Research classes for BSc, BE (MBEO, IOM) and Pre-Master (BRT)
-    - Strategic Marketing Management 
+    - Class 1
+    - Class 2
     - Bachelor's / Master's Thesis
 
 ---
 class: font160
-# Hendrik: Interests
+# Gijs: Interests
 
 * Academics:
   - Education, marketing research
   - Data analytics
 
 * Real World:
-  - Cycling (mountain biking, road cycling, long distance trips)
-  - Music $\rightarrow$ streaming Spotify all day
-
-
+  - XX
+  - YY
 
 ---
 class: inverse, center, middle
