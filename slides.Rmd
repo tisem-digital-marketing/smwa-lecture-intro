@@ -253,6 +253,8 @@ Examples:
 * Does product adoption by influencers increase demand?
 * Do tweets by TV studios increase the number of viewers of their show?
 
+**We'll spend a lot of time in this space**
+
 ---
 class: font160
 
@@ -266,6 +268,8 @@ Examples:
 * Is this review posted by a real person or by a bot?
 * How many retweets does Nike expect its next tweet to get?
 * Who is a new Twitter user likely to follow?
+
+**Not the focus of this class**
 
 ---
 class: font160
