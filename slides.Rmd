@@ -22,9 +22,9 @@ options(htmltools.dir.version = FALSE)
 ```
 
 ---
-class: font200
+class: font180
 
-# Learning Goals for this Week
+# Learning Goals for this Class
 
 * Understand the logistical structure of the course
 * Meet your Instructors
@@ -38,22 +38,24 @@ class: inverse, center, middle
 # Logistics
 
 ---
+class: font160
 # Class Structure
 
-* Mainly in person
+* Hybrid-ish, Mainly **in person**
 
 * **Lectures**
-  * Video Lectures -- Discussion of papers
-  * Computer Lectures -- Methods intros, biweekly
+  * Recorded Lectures - Discussion of papers
+      - Not in-person
+  * Live Computer Lectures - Methods intros, biweekly
 
 * **Lab Sections**
   * Week 1: Intro to Networks & Getting Data via Twitter API
   * From Week 2:
-    * Group Presentations (2 $\times$ 30 mins)
-    * Review of Previous Lab Assignment (30 mins) 
+      * Group Presentations (2 $\times$ 30 mins)
+      * Review of Previous Lab Assignment (30 mins) 
 
 ---
-class: font140 
+class: font160 
 
 # Where to Find Stuff
 
@@ -165,7 +167,7 @@ class: font140
 **Bottom Line:** *analysing social media data to answer economic and marketing questions*
 
 ---
-class: font180
+class: font160
 # Lachlan: Areas of Expertise
 
 Why is all this relevant?
@@ -284,9 +286,9 @@ Social Media Analytics needs to combine tools from three areas:
 
 The exact mix of these depends on:
 
-* The question you want to answer 
+* **The question** you want to answer 
   * Example: Can one deliver valuable insight by ignoring the network structure?
-* Personal taste
+* **Personal taste**
   * ... I've increasingly started to value the network side of things lately
   * ... This view is not necessarily representative of all marketers 
 
@@ -307,7 +309,7 @@ Why?
 * Being able to do (good) social media analytics ensures many (enjoyable) job prospects
 
 ---
-class: font180
+class: font160
 
 # Good and Bad News ...
 
@@ -330,7 +332,7 @@ class: inverse, center, middle
 ---
 class: font140
 
-# Course Objectives:
+# Course Objectives
 
 1. Explain and evaluate the challenges and opportunities social media and social networks present marketers.
 2. Summarize state of the art knowledge from the academic marketing literature about social media’s impact on marketing.
@@ -341,7 +343,7 @@ class: font140
 7. Appraise and critique the assumptions behind statistical analysis of social media data in a given setting and propose alternative methodologies to improve existing analysis
 
 ---
-class: font160
+class: font140
 
 # What We Will Cover
 
@@ -359,9 +361,10 @@ Four Blocks:
   * Viral Marketing
   * Social Advertising
 
-Week 2 ... a deep dive into regression & causation
+Week 2? ... a deep dive into regression & causation
 
 ---
+class: font150
 # Building an Analytics Toolkit
 
 1. **Network Analytics**
@@ -378,6 +381,7 @@ Week 2 ... a deep dive into regression & causation
   * Causal Inference
 
 ---
+class: font150
 # Building an Analytics Toolkit: Software
 
 1. `R` - purpose built statistical software
@@ -401,7 +405,7 @@ class: inverse, center, middle
 # Assessment
 
 ---
-class: font160
+class: font140
 
 # Group Assignments (30%)
 
@@ -420,7 +424,8 @@ class: font160
   - We'll introduce you to the details over next weeks
 
 ---
-# Group Presentations (20 %)
+class: font150
+# Group Presentations (20%)
 
 * **2** group presentations & discussions - **each 10% of final grade**.
 * Group Allocation: random + changes between assignments
@@ -455,7 +460,10 @@ class: font150
 * Including writing / explaining short code snippets
 
 ---
+class: font150
 # Lab Assignments (Ungraded)
+
+**Essential Notions:**
 
 * Learning by doing... especially for methods
 * Mix of coding and conceptual
@@ -467,6 +475,7 @@ class: font150
 * Cover some material in Lab Section
 
 ---
+class: font150
 # Active Participation Bonus
 
 **Up to 1 Bonus Point** (equiv. 10 percent of course grade)
