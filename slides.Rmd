@@ -476,6 +476,17 @@ class: font150
 Note: Max. course grade is still 10.
 
 ---
+class:clear
+background-size: contain
+
+background-image: url("figs/qanda.jpeg")
+
+---
+class: clear 
+
+background-image: url("figs/getstarted.png")
+
+---
 # License & Citation
 
 Suggested Citation:
