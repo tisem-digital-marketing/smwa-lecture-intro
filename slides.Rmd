@@ -398,13 +398,13 @@ class: inverse, center, middle
 ---
 class: font160
 
-# Group Assignments (40%)
+# Group Assignments (30%)
 
-* **2** group assignments - **each 20% of final grade**.
+* **2** group assignments - **each 15% of final grade**.
 * Group Allocation: random + changes between assignments
 
 * **Group Assignment 1**: Evaluating & Managing Online Reputation
-* **Group Assignment 2**: TBA
+* **Group Assignment 2**: Sentiment and Topic Analysis using Airline Tweets
 
 * Assignment Structure:
   * Multiple Parts
@@ -412,40 +412,68 @@ class: font160
   * Mix of analytics and interpretation
   * Goal: walk through solving a problem
 * **Submission via GitHub Classroom**
-  - We'll introduce you to the details next week
+  - We'll introduce you to the details over next weeks
+
+---
+# Group Presentations (20 %)
+
+* **2** group presentations & discussions - **each 10% of final grade**.
+* Group Allocation: random + changes between assignments
+
+* **Format**:
+  - 2 groups per week starting Week 2
+  - Presentation: 15 mins
+  - Panel Q & A:  approx 10 mins
+      - Panel is other group presenting that week
+  - Open Q & A: remaining time
+
+**Topics are available on the course website**
+
 
 ---
 class: font150
 
-# Final Project (55%)
+# Final Exam (50%)
 
-* Submitted **individually** (on GitHub Classroom)
+* Closed Book, Pencil/Pen and Paper
+* 3 hours in length
 
-* **Goal**: Conduct independent analysis of some social media or web data
-  * Put this skills you learn to use on a new, self-defined problem
-  * Topics: you can choose - must be (loosely) related to Social Media / Web Analytics
+**Structure**: 
 
-* 3 Milestones to complete
-  * **Milestone 1**: Proposal and Data Collection
-  * **Milestone 2**: Literature Review + Motivating Figure / Table
-  * **Milestone 3**: Final Report + Video Presentation
+* PART A: True/False/Uncertain with an explanation (20%)
+* PART B : Short answer questions (40%)
+* PART C: An open ended / essay style question (40%)
 
-* Project Grade:
+**Coverage**:
 
-$$
-Grade = 0.20 \times \text{Milestone 1} + 0.20 \times \text{Milestone 2} + 0.6 \times \text{Milestone 3}
-$$
+* Everything from lectures, labs, and readings
+* Including writing / explaining short code snippets
 
 ---
-class: font180
+# Lab Assignments (Ungraded)
 
-# Weekly Quizzes (5%)
+* Learning by doing... especially for methods
+* Mix of coding and conceptual
+* Invest your time in these, it will pay Office
 
-* Review Quizzes (on *Canvas*)
-  * 3 attempts
-  * 5 - 10 questions, mix of marketing questions + analytics questions
-  * Goal: check that you've worked through the material each week
-* We take your best **5** _completed_ quiz grades.
+**Answers?**
+
+* Selected Answers posted online 
+* Cover some material in Lab Section
+
+---
+# Active Participation Bonus
+
+**Up to 1 Bonus Point** (equiv. 10 percent of course grade)
+
+* Want to encourage *active* & productive participation in classes
+
+* How? 
+  - Engage in discussions
+  - Ask questions
+  - Participate in surprise short quizzes
+
+Note: Max. course grade is still 10.
 
 ---
 # License & Citation
@@ -453,11 +481,11 @@ class: font180
 Suggested Citation:
 
 ```{r, engine='out', eval = FALSE}
-@misc{ddw2021,
+@misc{smwa2022,
       title={"Social Media and Web Analytics: Course Introduction"},
-      author={Lachlan Deer and Henrik de With},
-      year={2021},
-      url = "https://tisem-social-media.github.io/2021-spring"
+      author={Lachlan Deer},
+      year={2022},
+      url = "https://tisem-digital-marketing.github.io/2022-smwa"
 }
 ```
 
