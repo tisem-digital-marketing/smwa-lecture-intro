@@ -188,9 +188,9 @@ class: font160
 
 * Lecturer in the Marketing Department 
   * Might know me from: 
-    - Customer Analytics
-    - ACCO (pre-master)
-    - Bachelor's / Master's Thesis
+      - Customer Analytics
+      - ACCO (pre-master)
+      - Bachelor's / Master's Thesis
 
 ---
 class: font160
