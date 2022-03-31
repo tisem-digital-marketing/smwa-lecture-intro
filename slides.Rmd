@@ -183,14 +183,14 @@ Why is all this relevant?
 class: font160
 # Gijs: Background
 
-* Dutch, XXX Based 
-  * But studying & working at Tilburg 
+* Dutch, Esch Based (very small, Boxtel more familiar)
+  * But studied at Tilburg and been working here for almost a year
 
 * Lecturer in the Marketing Department 
   * Might know me from: 
-    - Class 1
-    - Class 2
-    - Bachelor's / Master's Thesis
+      - Customer Analytics
+      - ACCO (pre-master)
+      - Bachelor's / Master's Thesis
 
 ---
 class: font160
@@ -198,11 +198,12 @@ class: font160
 
 * Academics:
   - Education, marketing research
-  - Data analytics
+  - Data driven decision making
+  - Sport Analytics
 
 * Real World:
-  - XX
-  - YY
+  - Sunday League Football
+  - Fitness
 
 ---
 class: inverse, center, middle
