@@ -41,14 +41,15 @@ class: inverse, center, middle
 class: font160
 # Class Structure
 
-* Hybrid-ish, Mainly **in person**
+* Hybrid-ish, *Mainly in person*
 
 * **Lectures**
-  * Recorded Lectures - Discussion of papers
-      - Not in-person
+  * Recorded Lectures - Discussion of papers & marketing concepts
+      - *Not* in-person
   * Live Computer Lectures - Methods intros, biweekly
+      - *In person, on campus*
 
-* **Lab Sections**
+* **Lab Sections** (*on campus*)
   * Week 1: Intro to Networks & Getting Data via Twitter API
   * From Week 2:
       * Group Presentations (2 $\times$ 30 mins)
@@ -117,7 +118,7 @@ class: font140
 # Things to Keep in Mind
 
 * This course is **quite new**
-  * We look at **current** state of the art knowledge
+  * We look at *current* state of the art *knowledge*
   * There will likely be bugs ...
   * ... We'll work through them together
 
@@ -153,7 +154,7 @@ class: font160
 class: font140
 # Lachlan: Areas of Expertise
 
-* **Substantive**
+* **Substantive:**
   - Quantifying the impact of Twitter on demand for new products (Movies)
   - Quantifying relationship between advertising and social media discussions
   - Understanding the role of Social Media Networks in Political Revolutions (Arab Spring)
@@ -437,8 +438,9 @@ class: font150
   - Panel Q & A:  approx 10 mins
       - Panel is other group presenting that week
   - Open Q & A: remaining time
+  - Afterwards: Write a short individual reflection on how it went
 
-**Topics are available on the course website**
+*Topics are available on the course website 2 weeks before a presentation*
 
 
 ---
@@ -458,7 +460,7 @@ class: font150
 **Coverage**:
 
 * Everything from lectures, labs, and readings
-* Including writing / explaining short code snippets
+* *Including* writing / explaining short code snippets
 
 ---
 class: font150
@@ -468,11 +470,11 @@ class: font150
 
 * Learning by doing... especially for methods
 * Mix of coding and conceptual
-* Invest your time in these, it will pay Office
+* *Invest your time in these, it will pay off*
 
 **Answers?**
 
-* Selected Answers posted online 
+* Selected answers posted online 
 * Cover some material in Lab Section
 
 ---
@@ -507,7 +509,7 @@ background-image: url("figs/getstarted.png")
 Suggested Citation:
 
 ```{r, engine='out', eval = FALSE}
-@misc{smwa2022,
+@misc{smwa2022_intro,
       title={"Social Media and Web Analytics: Course Introduction"},
       author={Lachlan Deer},
       year={2022},

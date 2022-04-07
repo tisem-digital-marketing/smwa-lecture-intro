@@ -107,3 +107,12 @@ This will install all the packages we need. It may take a while.
 Deer, Lachlan. 2022. Social Media and Web Analytics: Course Introduction.
 Tilburg University.
 url = "https://github.com/tisem-digital-marketing/smwa-lecture-intro"
+
+```
+@misc{smwa2022_intro,
+      title={"Social Media and Web Analytics: Course Introduction"},
+      author={Lachlan Deer},
+      year={2022},
+      url = "https://tisem-digital-marketing.github.io/2022-smwa"
+}
+```
