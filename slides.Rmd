@@ -46,31 +46,31 @@ class: font160
 * **Lectures**
   * Recorded Lectures - Discussion of papers & marketing concepts
       - *Not* in-person
-  * Live Computer Lectures - Methods intros, biweekly
+  * Live Computer Lectures - Methods / doing marketing analytics
       - *In person, on campus*
 
 * **Lab Sections** (*on campus*)
-  * Week 1: Intro to Networks & Getting Data via Twitter API
-  * From Week 2:
-      * Group Presentations (2 $\times$ 30 mins)
-      * Review of Previous Lab Assignment (30 mins) 
+  * Week 2: Intro to Networks & Getting Data via Twitter API
+  * From Week 3:
+      * Group Discussion (45 mins)
+      * Review of Previous Lab Assignment (45 mins) 
 
 ---
 class: font160 
 
 # Where to Find Stuff
 
-* [Course website](https://tisem-digital-marketing.github.io/2022-smwa/) is your # 1 resource
+* [Course website](https://tisem-digital-marketing.github.io/2023-smwa/) is your # 1 resource
   * Canvas only used for group allocation, grades
 
-* Discussion / Chat: [Slack](https://tisem-smwa-2022.slack.com/)
+* Discussion / Chat: [Slack](https://tisem-smwa-2023.slack.com/)
   * Group Chat across different 'channels'
 
 * Email (if you must): tisem.social.media@gmail.com
   * *Not* our personal email addresses
 
 * Office Hours
-  * Sign up using [links](Thttps://tisem-digital-marketing.github.io/2021-smwa/home/instructors/)
+  * Sign up using [links](Thttps://tisem-digital-marketing.github.io/2023-smwa/home/instructors/)
   * Check the Syllabus for instructions
 
 ---
@@ -117,7 +117,7 @@ class: font140
 
 # Things to Keep in Mind
 
-* This course is **quite new**
+* This course is **slowly maturing** but evolves year to year
   * We look at *current* state of the art *knowledge*
   * There will likely be bugs ...
   * ... We'll work through them together
@@ -142,11 +142,10 @@ class: font160
 
 * Born and raised in Australia 
 
-* **New to the Netherlands**: second year here 
+* **New-ish to the Netherlands**: third year here 
   * Currently live in Rotterdam
   * Journey to the the Netherlands: London $\rightarrow$ Zurich $\rightarrow$ the Bay Area $\rightarrow$ Zurich $\rightarrow$ Chicago
   * Still learning the ins and outs of the Netherlands *and* the university
-    * ... am have yet to explore outside of Rotterdam!
 
 * Now: Assistant Prof @ Tilburg University  
 
@@ -185,7 +184,7 @@ class: font160
 # Gijs: Background
 
 * Dutch, Esch Based (very small, Boxtel more familiar)
-  * But studied at Tilburg and been working here for almost a year
+  * But studied at Tilburg and working here for almost two years
 
 * Lecturer in the Marketing Department 
   * Might know me from: 
@@ -291,7 +290,7 @@ The exact mix of these depends on:
 * **The question** you want to answer 
   * Example: Can one deliver valuable insight by ignoring the network structure?
 * **Personal taste**
-  * ... I've increasingly started to value the network side of things lately
+  * ... I increasingly value the network side of things
   * ... This view is not necessarily representative of all marketers 
 
 ---
@@ -337,7 +336,7 @@ class: font140
 # Course Objectives
 
 1. Explain and evaluate the challenges and opportunities social media and social networks present marketers.
-2. Summarize state of the art knowledge from the academic marketing literature about social media’s impact on marketing.
+2. Summarize state of the art knowledge from the academic marketing literature about social media's impact on marketing.
 3. Provide intuitive explanations of statistical concepts from the areas of linear regression, causal inference, natural language processing and network analytics
 4. Implement statistical analysis to analyze social media data using tools from linear regression, causal inference, natural language processing and network analytics
 5. Interpret their own and other's statistical analysis of social media data
@@ -349,13 +348,12 @@ class: font140
 
 # What We Will Cover
 
-Four Blocks:
+Four substantive blocks:
 
 1. **Empirical Analysis of Patterns in Social Networks** (Week 1 & 6)
   * Structure of Social Media Networks
 2. **Analysing Brand Reputation in Online Communities** (Weeks 3)
   * Online Reputation 
-  * Structure of Online Communities
 3. **Quantifying the Importance of Influencers and Word of Mouth** (Weeks 4 & 5)
   * Word of Mouth
   * Influencers
@@ -380,7 +378,7 @@ class: font150
 
 3. **Statistics/Econometrics**
   * Regression Modelling: OLS and extensions
-  * Causal Inference
+  * Causal Inference: Difference in Differences & Propensity Score Matching
 
 ---
 class: font150
@@ -409,9 +407,9 @@ class: inverse, center, middle
 ---
 class: font140
 
-# Group Assignments (30%)
+# Group Assignments (40%)
 
-* **2** group assignments - **each 15% of final grade**.
+* **2** group assignments - **each 20% of final grade**.
 * Group Allocation: random + changes between assignments
 
 * **Group Assignment 1**: Evaluating & Managing Online Reputation
@@ -425,28 +423,11 @@ class: font140
 * **Submission via GitHub Classroom**
   - We'll introduce you to the details over next weeks
 
----
-class: font150
-# Group Presentations (20%)
-
-* **2** group presentations & discussions - **each 10% of final grade**.
-* Group Allocation: random + changes between assignments
-
-* **Format**:
-  - 2 groups per week starting Week 2
-  - Presentation: 15 mins
-  - Panel Q & A:  approx 10 mins
-      - Panel is other group presenting that week
-  - Open Q & A: remaining time
-  - Afterwards: Write a short individual reflection on how it went
-
-*Topics are available on the course website 2 weeks before a presentation*
-
 
 ---
 class: font150
 
-# Final Exam (50%)
+# Final Exam (60%)
 
 * Closed Book, Pencil/Pen and Paper
 * 3 hours in length
@@ -455,7 +436,7 @@ class: font150
 
 * PART A: True/False/Uncertain with an explanation (20%)
 * PART B : Short answer questions (40%)
-* PART C: An open ended / essay style question (40%)
+* PART C: An Structured essay question (40%)
 
 **Coverage**:
 
@@ -475,22 +456,37 @@ class: font150
 **Answers?**
 
 * Selected answers posted online 
-* Cover some material in Lab Section
+* Cover some material in Lab Section with one week lag
+
+**Why?** 
+
+Practice forward group assignment, Part B of exam
 
 ---
-class: font150
-# Active Participation Bonus
+class: font140
+# Marketing Analytics in the Wild
 
-**Up to 1 Bonus Point** (equiv. 10 percent of course grade)
+* Each Lab Section, 45 mins 
 
-* Want to encourage *active* & productive participation in classes
+* Hypothetical problem in 'marketing analytics' to solve in a group
 
-* How? 
-  - Engage in discussions
-  - Ask questions
-  - Participate in surprise short quizzes
+* Problem posted online, one week in advance 
 
-Note: Max. course grade is still 10.
+**Before class:**
+
+* Think about how you might solve the problem, draft a solution 
+
+**In class:**
+
+* Discuss approaches in small group, think of one way forward
+* Draft a solution 
+* Discuss alternative solutions by each group 
+
+**No right or wrong answers**, are *better* solutions 
+
+**Mimics structure of Part C of Exam**
+
+
 
 ---
 class:clear
@@ -509,11 +505,11 @@ background-image: url("figs/getstarted.png")
 Suggested Citation:
 
 ```{r, engine='out', eval = FALSE}
-@misc{smwa2022_intro,
+@misc{smwa2023_intro,
       title={"Social Media and Web Analytics: Course Introduction"},
       author={Lachlan Deer},
-      year={2022},
-      url = "https://tisem-digital-marketing.github.io/2022-smwa"
+      year={2023},
+      url = "https://tisem-digital-marketing.github.io/2023-smwa"
 }
 ```
 
